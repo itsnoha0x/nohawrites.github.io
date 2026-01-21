@@ -1,0 +1,16 @@
+baseURL = 'https://nohawrites.com/'
+languageCode = 'en-us'
+title = 'Noha Writes'
+theme = 'PaperMod'
+
+[pagination]
+  pagerSize = 5
+
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
