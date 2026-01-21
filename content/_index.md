@@ -1,11 +1,13 @@
 ---
 title: "Home"
 ---
+{{< rawhtml >}}
 <div class="home-banner">
 
-![Banner](/images/banner.jpg)
+<img src="/images/banner.jpg" alt="Banner">
 
 </div>
+{{< /rawhtml >}}
 
 ## Welcome 👋
 
