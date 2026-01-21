@@ -1,8 +1,6 @@
 ---
 title: "Hello"
-build:
-  render: never
-  list: never
-  publishResources: false
+date: 2026-01-21
+draft: false
 ---
 
