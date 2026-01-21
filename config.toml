@@ -21,6 +21,7 @@ relativeURLs = true
   showRecentPosts = true
   hideMeta = true
   customCSS = ["css/custom.css"]
+  env = "production"
 
 [params.profileMode]
   enabled = true
@@ -39,3 +40,18 @@ url = "/blog/"
 [[params.profileMode.buttons]]
 name = "Work With Me"
 url = "/work-with-me/"
+
+[params.assets]
+  disableFingerprinting = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Work With Me"
+    url = "/work-with-me/"
+    weight = 2
