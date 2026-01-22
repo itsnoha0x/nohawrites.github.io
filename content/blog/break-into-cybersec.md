@@ -1,7 +1,7 @@
 ---
 title: "How To break into Cybersecurity: Advice From A Learner"
 slug: "how-to-break-into-cybersecurity"
-date: 2026-01-22
+date: 2026-01-20
 draft: false
 summary: "Cybersecurity is now essential across all fields. If you're new and unsure where to start, this piece shares a learner’s journey and advice to guide you fast."
 ---
@@ -45,7 +45,7 @@ Scripting and understanding code are valuable skills in the field! Maybe not to 
 
 Python for scripting and automation, Bash for tasks in Linux, and C for those interested in low-level security and reverse engineering. Remember to start small with the basics and practice regularly with projects.
 
-![Learning illustration](/images/illustrations/undraw_learning.svg) 
+<img src="/images/illustrations/undraw_learning.svg" width="320" />
 
 ### Web
 
@@ -106,4 +106,4 @@ As you begin your journey, keep in mind that:
 - **Practice makes perfect:** The field requires a lot of practice, and hands-on experience way more than theory. Think of projects, CTF competitions, virtual practice labs, and more.
 - **Continuous learning:** Stay curious and never stop learning to keep up with its fast rhythm.
 
-A huge thank you to Emre for sharing his journey with us. Now it's your turn; take that first step, whether it's setting up your first lab, joining a CTF competition, or simply exploring more on our blog.
+A huge thank you to Emre for sharing his journey with us. Now it's your turn; take that first step, whether it's setting up your first lab, joining a CTF competition, or simply exploring more on [the blog](https://nohawrites.com/blog/).
