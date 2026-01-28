@@ -45,9 +45,10 @@ Scripting and understanding code are valuable skills in the field! Maybe not to 
 
 Python for scripting and automation, Bash for tasks in Linux, and C for those interested in low-level security and reverse engineering. Remember to start small with the basics and practice regularly with projects.
 
-<div style="text-align: center; margin: 40px 0;">
-  <img src="/images/illustrations/undraw_learning.svg" width="320" />
+<div style="margin: 40px 0;">
+  <img src="/images/illustrations/undraw_learning.svg" width="320" style="display: block; margin: 0 auto;" />
 </div>
+
 
 
 ### Web
